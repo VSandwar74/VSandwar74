@@ -1,4 +1,12 @@
 ### Hi there 👋
+I'm Vishakh Sandwar, welcome to my github! I'm a sophomore at NYU doing some combination of Math, CS and Finance. I've dabbled in computational biology, web3 development, low level system design, full stack development, large language models (RAG), statistics and regression and I'm trying to add Rust, and quantum computing to my arsenal to become the jack of all trades!
+
+- 🔭 I’m currently working on building a data bench to make financial exploratory data analysis easier!
+
+- 🌱 I’m currently learning Rust and Quantum Computing
+  
+- 📫 How to reach me: [first].[last]@nyu.edu or vishakhsandwar.com!
+
 
 <!--
 **VSandwar74/VSandwar74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
