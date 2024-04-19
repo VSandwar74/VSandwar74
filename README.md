@@ -7,6 +7,8 @@ I'm Vishakh Sandwar, welcome to my github! I'm a sophomore at NYU doing some com
   
 - 📫 How to reach me: [first].[last]@nyu.edu or vishakhsandwar.com!
 
+![stats](https://github-readme-stats.vercel.app/api?username=VSandwar74&count_private=True&show_icons=True&theme=tokyonight)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VSandwar74&hide=html)
 
 <!--
 **VSandwar74/VSandwar74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
